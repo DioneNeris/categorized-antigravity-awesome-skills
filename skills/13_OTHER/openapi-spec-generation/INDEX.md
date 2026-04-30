@@ -1,0 +1,3 @@
+# openapi-spec-generation
+
+- resources

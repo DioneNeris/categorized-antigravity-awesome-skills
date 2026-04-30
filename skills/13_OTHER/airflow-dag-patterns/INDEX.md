@@ -1,0 +1,3 @@
+# airflow-dag-patterns
+
+- resources

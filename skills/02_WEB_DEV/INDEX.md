@@ -1,0 +1,69 @@
+# 02_WEB_DEV
+
+- **angular**: Modern Angular (v20+) expert with deep knowledge of Signals, Standalone Components, Zoneless applications, SSR/Hydration, and reactive patterns.
+- **angular-best-practices**: "Angular performance optimization and best practices guide. Use when writing, reviewing, or refactoring Angular code for optimal performance, bundle size, and rendering efficiency."
+- **angular-migration**: "Master AngularJS to Angular migration, including hybrid apps, component conversion, dependency injection changes, and routing migration."
+- **angular-state-management**: "Master modern Angular state management with Signals, NgRx, and RxJS. Use when setting up global state, managing component stores, choosing between state solutions, or migrating from legacy patterns."
+- **angular-ui-patterns**: "Modern Angular UI patterns for loading states, error handling, and data display. Use when building UI components, handling async data, or managing component states."
+- **backend-architect**: Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
+- **backend-dev-guidelines**: "You are a senior backend engineer operating production-grade services under strict architectural and reliability constraints. Use when routes, controllers, services, repositories, express middleware, or prisma database access."
+- **backend-development-feature-development**: "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
+- **backend-security-coder**: Expert in secure backend coding practices specializing in input validation, authentication, and API security. Use PROACTIVELY for backend security implementations or security code reviews.
+- **cc-skill-backend-patterns**: "Backend architecture patterns, API design, database optimization, and server-side best practices for Node.js, Express, and Next.js API routes."
+- **cc-skill-frontend-patterns**: "Frontend development patterns for React, Next.js, state management, performance optimization, and UI best practices."
+- **clerk-auth**: Expert patterns for Clerk auth implementation, middleware,
+- **dbos-typescript**: "Guide for building reliable, fault-tolerant TypeScript applications with DBOS durable workflows. Use when adding DBOS to existing TypeScript code, creating workflows and steps, or using queues for concurrency control."
+- **design-taste-frontend**: "Use when building high-agency frontend interfaces with strict design taste, calibrated color, responsive layout, and motion rules."
+- **dotnet-backend**: "Build ASP.NET Core 8+ backend services with EF Core, auth, background jobs, and production API patterns."
+- **dotnet-backend-patterns**: "Master C#/.NET patterns for building production-grade APIs, MCP servers, and enterprise backends with modern best practices (2024/2025)."
+- **drizzle-orm-expert**: "Expert in Drizzle ORM for TypeScript — schema design, relational queries, migrations, and serverless database integration. Use when building type-safe database layers with Drizzle."
+- **expo-tailwind-setup**: Set up Tailwind CSS v4 in Expo with react-native-css and NativeWind v5 for universal styling
+- **fp-backend**: Functional programming patterns for Node.js/Deno backend development using fp-ts, ReaderTaskEither, and functional dependency injection
+- **fp-react**: Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Works with React 18/19, Next.js 14/15.
+- **fp-ts-react**: "Practical patterns for using fp-ts with React - hooks, state, forms, data fetching. Use when building React apps with functional programming patterns. Works with React 18/19, Next.js 14/15."
+- **frontend-api-integration-patterns**: "Production-ready patterns for integrating frontend applications with backend APIs, including race condition handling, request cancellation, retry strategies, error normalization, and UI state management."
+- **frontend-design**: "You are a frontend designer-engineer, not a layout generator."
+- **frontend-dev-guidelines**: "You are a senior frontend engineer operating under strict architectural and performance standards. Use when creating components or pages, adding new features, or fetching or mutating data."
+- **frontend-developer**: Build React components, implement responsive layouts, and handle client-side state management. Masters React 19, Next.js 15, and modern frontend architecture.
+- **frontend-mobile-development-component-scaffold**: "You are a React component architecture expert specializing in scaffolding production-ready, accessible, and performant components. Generate complete component implementations with TypeScript, tests, s"
+- **frontend-mobile-security-xss-scan**: "You are a frontend security specialist focusing on Cross-Site Scripting (XSS) vulnerability detection and prevention. Analyze React, Vue, Angular, and vanilla JavaScript code to identify injection poi"
+- **frontend-security-coder**: Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.
+- **frontend-slides**: Create stunning, animation-rich HTML presentations from scratch or by converting PowerPoint files.
+- **frontend-ui-dark-ts**: "A modern dark-themed React UI system using Tailwind CSS and Framer Motion. Designed for dashboards, admin panels, and data-rich applications with glassmorphism effects and tasteful animations."
+- **hono**: "Build ultra-fast web APIs and full-stack apps with Hono — runs on Cloudflare Workers, Deno, Bun, Node.js, and any WinterCG-compatible runtime."
+- **html-injection-testing**: "Identify and exploit HTML injection vulnerabilities that allow attackers to inject malicious HTML content into web applications. This vulnerability enables attackers to modify page appearance, create phishing pages, and steal user credentials through injected forms."
+- **javascript-mastery**: "33+ essential JavaScript concepts every developer should know, inspired by [33-js-concepts](https://github.com/leonardomso/33-js-concepts)."
+- **javascript-pro**: Master modern JavaScript with ES6+, async patterns, and Node.js APIs. Handles promises, event loops, and browser/Node compatibility.
+- **javascript-testing-patterns**: "Comprehensive guide for implementing robust testing strategies in JavaScript/TypeScript applications using modern testing frameworks and best practices."
+- **javascript-typescript-typescript-scaffold**: "You are a TypeScript project architecture expert specializing in scaffolding production-ready Node.js and frontend applications. Generate complete project structures with modern tooling (pnpm, Vite, N"
+- **modern-javascript-patterns**: "Comprehensive guide for mastering modern JavaScript (ES6+) features, functional programming patterns, and best practices for writing clean, maintainable, and performant code."
+- **n8n-code-javascript**: Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTime, troubleshooting Code node errors, or choosing between Code node modes.
+- **nextjs-app-router-patterns**: "Comprehensive patterns for Next.js 14+ App Router architecture, Server Components, and modern full-stack React development."
+- **nextjs-best-practices**: "Next.js App Router principles. Server Components, data fetching, routing patterns."
+- **nextjs-supabase-auth**: Expert integration of Supabase Auth with Next.js App Router
+- **nodejs-backend-patterns**: "Comprehensive guidance for building scalable, maintainable, and production-ready Node.js backend applications with modern frameworks, architectural patterns, and best practices."
+- **prisma-expert**: "You are an expert in Prisma ORM with deep knowledge of schema design, migrations, query optimization, relations modeling, and database operations across PostgreSQL, MySQL, and SQLite."
+- **radix-ui-design-system**: "Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries."
+- **react-best-practices**: "Comprehensive performance optimization guide for React and Next.js applications, maintained by Vercel. Use when writing new React components or Next.js pages, implementing data fetching (client or server-side), or reviewing code for performance issues."
+- **react-component-performance**: Diagnose slow React components and suggest targeted performance fixes.
+- **react-flow-architect**: "Build production-ready ReactFlow applications with hierarchical navigation, performance optimization, and advanced state management."
+- **react-flow-node-ts**: "Create React Flow node components following established patterns with proper TypeScript types and store integration."
+- **react-modernization**: "Master React version upgrades, class to hooks migration, concurrent features adoption, and codemods for automated transformation."
+- **react-native-architecture**: "Production-ready patterns for React Native development with Expo, including navigation, state management, native modules, and offline-first architecture."
+- **react-nextjs-development**: "React and Next.js 14+ application development with App Router, Server Components, TypeScript, Tailwind CSS, and modern frontend patterns."
+- **react-patterns**: "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices."
+- **react-state-management**: "Master modern React state management with Redux Toolkit, Zustand, Jotai, and React Query. Use when setting up global state, managing server state, or choosing between state management solutions."
+- **react-ui-patterns**: "Modern React UI patterns for loading states, error handling, and data fetching. Use when building UI components, handling async data, or managing UI states."
+- **sankhya-dashboard-html-jsp-custom-best-pratices**: "This skill should be used when the user asks for patterns, best practices, creation, or fixing of Sankhya dashboards using HTML, JSP, Java, and SQL."
+- **senior-frontend**: Frontend development skill for React, Next.js, TypeScript, and Tailwind CSS applications. Use when building React components, optimizing Next.js performance, analyzing bundle sizes, scaffolding frontend projects, implementing accessibility, or reviewing frontend code quality.
+- **shadcn**: Manages shadcn/ui components and projects, providing context, documentation, and usage patterns for building modern design systems.
+- **sveltekit**: "Build full-stack web applications with SvelteKit — file-based routing, SSR, SSG, API routes, and form actions in one framework."
+- **tailwind-design-system**: "Build production-ready design systems with Tailwind CSS, including design tokens, component variants, responsive patterns, and accessibility."
+- **tailwind-patterns**: "Tailwind CSS v4 principles. CSS-first configuration, container queries, modern patterns, design token architecture."
+- **trpc-fullstack**: "Build end-to-end type-safe APIs with tRPC — routers, procedures, middleware, subscriptions, and Next.js/React integration patterns."
+- **typescript-advanced-types**: "Comprehensive guidance for mastering TypeScript's advanced type system including generics, conditional types, mapped types, template literal types, and utility types for building robust, type-safe applications."
+- **typescript-expert**: TypeScript and JavaScript expert with deep knowledge of type-level programming, performance optimization, monorepo management, migration strategies, and modern tooling.
+- **typescript-pro**: Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.
+- **wiki-vitepress**: "Transform generated wiki Markdown files into a polished VitePress static site with dark theme and interactive Mermaid diagrams. Use when user asks to \"build a site\" or \"package as VitePress\", user runs the /deep-wiki, or user wants a browsable HTML output from generated wiki pages."
+- **xss-html-injection**: "Execute comprehensive client-side injection vulnerability assessments on web applications to identify XSS and HTML injection flaws, demonstrate exploitation techniques for session hijacking and credential theft, and validate input sanitization and output encoding mechanisms."
+- **zustand-store-ts**: "Create Zustand stores following established patterns with proper TypeScript types and middleware."

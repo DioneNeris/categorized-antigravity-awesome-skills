@@ -1,0 +1,3 @@
+# react-best-practices
+
+- rules

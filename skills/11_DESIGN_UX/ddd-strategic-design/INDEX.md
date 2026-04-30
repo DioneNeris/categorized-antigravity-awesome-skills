@@ -1,0 +1,3 @@
+# ddd-strategic-design
+
+- references

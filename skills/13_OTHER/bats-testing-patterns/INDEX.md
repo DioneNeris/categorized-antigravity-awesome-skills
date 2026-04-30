@@ -1,0 +1,3 @@
+# bats-testing-patterns
+
+- resources

@@ -1,0 +1,69 @@
+# 08_BUSINESS_MARKETING
+
+- **analytics-product**: "Analytics de produto — PostHog, Mixpanel, eventos, funnels, cohorts, retencao, north star metric, OKRs e dashboards de produto."
+- **analytics-tracking**: Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.
+- **business-analyst**: Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations.
+- **customer-psychographic-profiler**: "One sentence - what this skill does and when to invoke it"
+- **customer-support**: Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.
+- **growth-engine**: "Motor de crescimento para produtos digitais -- growth hacking, SEO, ASO, viral loops, email marketing, CRM, referral programs e aquisicao organica."
+- **latex-paper-conversion**: "This skill should be used when the user asks to convert an academic paper in LaTeX from one format (e.g., Springer, IPOL) to another format (e.g., MDPI, IEEE, Nature). It automates extraction, injection, fixing formatting, and compiling."
+- **lead-magnets**: "Plan and optimize lead magnets for email capture and lead generation. Use when designing gated content, checklists, templates, downloadable resources, or other offers that convert visitors into subscribers."
+- **local-legal-seo-audit**: "Audit and improve local SEO for law firms, attorneys, forensic experts and legal/professional services sites with local presence, focusing on GBP, directories, E-E-A-T and practice/location pages."
+- **market-sizing-analysis**: "Comprehensive market sizing methodologies for calculating Total Addressable Market (TAM), Serviceable Available Market (SAM), and Serviceable Obtainable Market (SOM) for startup opportunities."
+- **marketing-ideas**: "Provide proven marketing strategies and growth ideas for SaaS and software products, prioritized using a marketing feasibility scoring system."
+- **marketing-psychology**: "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system."
+- **monetization**: "Estrategia e implementacao de monetizacao para produtos digitais - Stripe, subscriptions, pricing experiments, freemium, upgrade flows, churn prevention, revenue optimization e modelos de negocio SaaS."
+- **notion-template-business**: Expert in building and selling Notion templates as a business - not
+- **odoo-sales-crm-expert**: "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
+- **odoo-shopify-integration**: "Connect Odoo with Shopify: sync products, inventory, orders, and customers using the Shopify API and Odoo's external API or connector modules."
+- **pricing-strategy**: "Design pricing, packaging, and monetization strategies based on value, customer willingness to pay, and growth objectives."
+- **product-marketing-context**: "Create or update a reusable product marketing context document with positioning, audience, ICP, use cases, and messaging. Use at the start of a project to avoid repeating core marketing context across tasks."
+- **programmatic-seo**: Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
+- **sales-automator**: 'Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing. '
+- **sales-enablement**: "Create sales collateral such as decks, one-pagers, objection docs, demo scripts, playbooks, and proposal templates. Use when a sales team needs assets that help reps move deals forward and close."
+- **salesforce-development**: Expert patterns for Salesforce platform development including
+- **seo**: "Run a broad SEO audit across technical SEO, on-page SEO, schema, sitemaps, content quality, AI search readiness, and GEO. Use as the umbrella skill when the user asks for a full SEO analysis or strategy."
+- **seo-aeo-blog-writer**: "Writes long-form blog posts with TL;DR block, definition sentence, comparison table, and 5-question FAQ for SEO ranking and AEO citation. Activate when the user wants to write a blog post, article, or long-form content piece."
+- **seo-aeo-content-cluster**: "Builds a topical authority map with a pillar page, prioritised cluster articles, content types, internal link map, and content gap analysis. Activate when the user wants to build a content cluster, topic map, or content strategy."
+- **seo-aeo-content-quality-auditor**: "Audits content for SEO and AEO performance with scored reports, severity-ranked fix lists, and projected scores after fixes. Activate when the user wants to audit, review, or score content for SEO or AEO compliance."
+- **seo-aeo-internal-linking**: "Maps internal link opportunities between pages with anchor text, placement instructions, orphan page detection, and cannibalization checks. Activate when the user wants to build an internal linking strategy or find link opportunities."
+- **seo-aeo-keyword-research**: "Researches and prioritises SEO keywords with AEO question queries, difficulty tiers, cannibalization checks, and a content map. Activate when the user wants to find keywords, research search terms, or build a keyword strategy."
+- **seo-aeo-landing-page-writer**: "Writes complete, structured landing pages optimized for SEO ranking, AEO citation, and visitor conversion. Activate when the user wants to write or generate a landing page for a product, service, or offer."
+- **seo-aeo-meta-description-generator**: "Writes 3 title tag variants and 3 meta description variants per page with SERP preview, OG tags, and Twitter Card tags. Activate when the user wants to write meta tags, title tags, or social sharing tags for any page."
+- **seo-aeo-schema-generator**: "Generates valid JSON-LD structured data for 10 schema types with rich result eligibility validation and implementation-ready script blocks. Activate when the user wants to generate schema markup, JSON-LD, or structured data for any page."
+- **seo-audit**: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
+- **seo-authority-builder**: 'Analyzes content for E-E-A-T signals and suggests improvements to
+- **seo-cannibalization-detector**: Analyzes multiple provided pages to identify keyword overlap and potential cannibalization issues. Suggests differentiation strategies. Use PROACTIVELY when reviewing similar content.
+- **seo-competitor-pages**: >
+- **seo-content**: >
+- **seo-content-auditor**: Analyzes provided content for quality, E-E-A-T signals, and SEO best practices. Scores content and provides improvement recommendations based on established guidelines.
+- **seo-content-planner**: 'Creates comprehensive content outlines and topic clusters for SEO.
+- **seo-content-refresher**: Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.
+- **seo-content-writer**: Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.
+- **seo-dataforseo**: "Use DataForSEO for live SERPs, keyword metrics, backlinks, competitor analysis, on-page checks, and AI visibility data. Trigger when the user needs real SEO data rather than static guidance."
+- **seo-forensic-incident-response**: "Investigate sudden drops in organic traffic or rankings and run a structured forensic SEO incident response with triage, root-cause analysis and recovery plan."
+- **seo-fundamentals**: Core principles of SEO including E-E-A-T, Core Web Vitals, technical foundations, content quality, and how modern search engines evaluate pages.
+- **seo-geo**: "Optimize content for AI Overviews, ChatGPT, Perplexity, and other AI search systems. Use when improving GEO, AI citations, llms.txt readiness, crawler accessibility, and passage-level citability."
+- **seo-hreflang**: >
+- **seo-image-gen**: "Generate SEO-focused images such as OG cards, hero images, schema assets, product visuals, and infographics. Use when image generation is part of an SEO workflow or content publishing task."
+- **seo-images**: >
+- **seo-keyword-strategist**: Analyzes keyword usage in provided content, calculates density, suggests semantic variations and LSI keywords based on the topic. Prevents over-optimization. Use PROACTIVELY for content optimization.
+- **seo-meta-optimizer**: Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.
+- **seo-page**: >
+- **seo-plan**: >
+- **seo-programmatic**: "Plan and audit programmatic SEO pages generated at scale from structured data. Use when designing templates, URL systems, internal linking, quality gates, and index-bloat safeguards for pages at scale."
+- **seo-schema**: >
+- **seo-sitemap**: >
+- **seo-snippet-hunter**: Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.
+- **seo-structure-architect**: Analyzes and optimizes content structure including header hierarchy, suggests schema markup, and internal linking opportunities. Creates search-friendly content organization.
+- **seo-technical**: "Audit technical SEO across crawlability, indexability, security, URLs, mobile, Core Web Vitals, structured data, JavaScript rendering, and related platform signals like robots.txt and AI crawler access."
+- **shopify-apps**: Expert patterns for Shopify app development including Remix/React
+- **shopify-development**: Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
+- **social-post-writer-seo**: "Social Media Strategist and Content Writer. Creates clear, engaging social media posts for Instagram, LinkedIn, and Facebook."
+- **startup-analyst**: Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
+- **startup-business-analyst-business-case**: 'Generate comprehensive investor-ready business case document with
+- **startup-business-analyst-financial-projections**: 'Create detailed 3-5 year financial model with revenue, costs, cash
+- **startup-business-analyst-market-opportunity**: 'Generate comprehensive market opportunity analysis with TAM/SAM/SOM
+- **startup-financial-modeling**: "Build comprehensive 3-5 year financial models with revenue projections, cost structures, cash flow analysis, and scenario planning for early-stage startups."
+- **startup-metrics-framework**: "Comprehensive guide to tracking, calculating, and optimizing key performance metrics for different startup business models from seed through Series A."
+- **wordpress-centric-high-seo-optimized-blogwriting-skill**: "Create long-form, high-quality, SEO-optimized blog posts ready for WordPress with truth boxes and FAQ schema."

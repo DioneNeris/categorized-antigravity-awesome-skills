@@ -1,0 +1,3 @@
+# auth-implementation-patterns
+
+- resources

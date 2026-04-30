@@ -1,0 +1,37 @@
+# 09_LANGUAGES_CORE
+
+- **akf-trust-metadata**: "The AI native file format. EXIF for AI — stamps every file with trust scores, source provenance, and compliance metadata. Embeds into 20+ formats (DOCX, PDF, images, code). EU AI Act, SOX, HIPAA auditing."
+- **async-python-patterns**: "Comprehensive guidance for implementing asynchronous Python applications using asyncio, concurrent programming patterns, and async/await for building high-performance, non-blocking systems."
+- **busybox-on-windows**: "How to use a Win32 build of BusyBox to run many of the standard UNIX command line tools on Windows."
+- **c-pro**: "Write efficient C code with proper memory management, pointer"
+- **cpp-pro**: Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.
+- **dbos-golang**: "Guide for building reliable, fault-tolerant Go applications with DBOS durable workflows. Use when adding DBOS to existing Go code, creating workflows and steps, or using queues for concurrency control."
+- **elixir-pro**: Write idiomatic Elixir code with OTP patterns, supervision trees, and Phoenix LiveView. Masters concurrency, fault tolerance, and distributed systems.
+- **golang-pro**: Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.
+- **grpc-golang**: "Build production-ready gRPC services in Go with mTLS, streaming, and observability. Use when designing Protobuf contracts with Buf or implementing secure service-to-service transport."
+- **haskell-pro**: "Expert Haskell engineer specializing in advanced type systems, pure"
+- **java-pro**: Master Java 21+ with modern features like virtual threads, pattern matching, and Spring Boot 3.x. Expert in the latest Java ecosystem including GraalVM, Project Loom, and cloud-native patterns.
+- **jq**: "Expert jq usage for JSON querying, filtering, transformation, and pipeline integration. Practical patterns for real shell workflows."
+- **julia-pro**: Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
+- **new-rails-project**: Create a new Rails project
+- **php-pro**: 'Write idiomatic PHP code with generators, iterators, SPL data
+- **posix-shell-pro**: Expert in strict POSIX sh scripting for maximum portability across Unix-like systems. Specializes in shell scripts that run on any POSIX-compliant shell (dash, ash, sh, bash --posix).
+- **python-development-python-scaffold**: "You are a Python project architecture expert specializing in scaffolding production-ready Python applications. Generate complete project structures with modern tooling (uv, FastAPI, Django), type hint"
+- **python-fastapi-development**: "Python FastAPI backend development with async patterns, SQLAlchemy, Pydantic, authentication, and production API patterns."
+- **python-packaging**: "Comprehensive guide to creating, structuring, and distributing Python packages using modern packaging tools, pyproject.toml, and publishing to PyPI."
+- **python-patterns**: "Python development principles and decision-making. Framework selection, async patterns, type hints, project structure. Teaches thinking, not copying."
+- **python-performance-optimization**: "Profile and optimize Python code using cProfile, memory profilers, and performance best practices. Use when debugging slow Python code, optimizing bottlenecks, or improving application performance."
+- **python-pptx-generator**: "Generate complete Python scripts that build polished PowerPoint decks with python-pptx and real slide content."
+- **python-pro**: Master Python 3.12+ with modern features, async programming, performance optimization, and production-ready practices. Expert in the latest Python ecosystem including uv, ruff, pydantic, and FastAPI.
+- **python-testing-patterns**: "Implement comprehensive testing strategies with pytest, fixtures, mocking, and test-driven development. Use when writing Python tests, setting up test suites, or implementing testing best practices."
+- **ruby-pro**: Write idiomatic Ruby code with metaprogramming, Rails patterns, and performance optimization. Specializes in Ruby on Rails, gem development, and testing frameworks.
+- **rust-async-patterns**: "Master Rust async programming with Tokio, async traits, error handling, and concurrent patterns. Use when building async Rust applications, implementing concurrent systems, or debugging async code."
+- **rust-pro**: Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.
+- **scala-pro**: Master enterprise-grade Scala development with functional programming, distributed systems, and big data processing. Expert in Apache Pekko, Akka, Spark, ZIO/Cats Effect, and reactive architectures.
+- **skill-rails-upgrade**: "Analyze Rails apps and provide upgrade assessments"
+- **systems-programming-rust-project**: "You are a Rust project architecture expert specializing in scaffolding production-ready Rust applications. Generate complete project structures with cargo tooling, proper module organization, testing"
+- **temporal-golang-pro**: "Use when building durable distributed systems with Temporal Go SDK. Covers deterministic workflow rules, mTLS worker configs, and advanced patterns."
+- **temporal-python-pro**: Master Temporal workflow orchestration with Python SDK. Implements durable workflows, saga patterns, and distributed transactions. Covers async/await, testing strategies, and production deployment.
+- **temporal-python-testing**: "Comprehensive testing approaches for Temporal workflows using pytest, progressive disclosure resources for specific testing scenarios."
+- **trust-calibrator**: "One sentence - what this skill does and when to invoke it"
+- **unreal-engine-cpp-pro**: "Expert guide for Unreal Engine 5.x C++ development, covering UObject hygiene, performance patterns, and best practices."

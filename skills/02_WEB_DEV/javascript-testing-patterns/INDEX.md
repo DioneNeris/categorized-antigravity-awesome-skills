@@ -1,0 +1,3 @@
+# javascript-testing-patterns
+
+- resources

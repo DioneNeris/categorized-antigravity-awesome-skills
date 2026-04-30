@@ -1,0 +1,5 @@
+# notebooklm
+
+- images
+- references
+- scripts

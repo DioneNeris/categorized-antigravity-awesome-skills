@@ -1,0 +1,4 @@
+# senior-fullstack
+
+- references
+- scripts

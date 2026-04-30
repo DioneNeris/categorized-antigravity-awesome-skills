@@ -1,0 +1,3 @@
+# temporal-python-testing
+
+- resources

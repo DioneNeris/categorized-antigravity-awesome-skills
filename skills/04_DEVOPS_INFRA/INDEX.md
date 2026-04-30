@@ -1,0 +1,137 @@
+# 04_DEVOPS_INFRA
+
+- **address-github-comments**: "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI."
+- **aws-cost-cleanup**: "Automated cleanup of unused AWS resources to reduce costs"
+- **aws-cost-optimizer**: "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer"
+- **aws-penetration-testing**: "Provide comprehensive techniques for penetration testing AWS cloud environments. Covers IAM enumeration, privilege escalation, SSRF to metadata endpoint, S3 bucket exploitation, Lambda code extraction, and persistence techniques for red team operations."
+- **aws-serverless**: Specialized skill for building production-ready serverless
+- **aws-skills**: "AWS development with infrastructure automation and cloud architecture patterns"
+- **azd-deployment**: "Deploy containerized frontend + backend applications to Azure Container Apps with remote builds, managed identity, and idempotent infrastructure."
+- **azure-appconfiguration-java**: Azure App Configuration SDK for Java. Centralized application configuration management with key-value settings, feature flags, and snapshots.
+- **azure-appconfiguration-py**: Azure App Configuration SDK for Python. Use for centralized configuration management, feature flags, and dynamic settings.
+- **azure-appconfiguration-ts**: "Centralized configuration management with feature flags and dynamic refresh."
+- **azure-communication-callautomation-java**: "Build server-side call automation workflows including IVR systems, call routing, recording, and AI-powered interactions."
+- **azure-communication-callingserver-java**: "⚠️ DEPRECATED: This SDK has been renamed to Call Automation. For new projects, use azure-communication-callautomation instead. This skill is for maintaining legacy code only."
+- **azure-communication-chat-java**: "Build real-time chat applications with thread management, messaging, participants, and read receipts."
+- **azure-communication-common-java**: "Azure Communication Services common utilities for Java. Use when working with CommunicationTokenCredential, user identifiers, token refresh, or shared authentication across ACS services."
+- **azure-communication-sms-java**: "Send SMS messages with Azure Communication Services SMS Java SDK. Use when implementing SMS notifications, alerts, OTP delivery, bulk messaging, or delivery reports."
+- **azure-compute-batch-java**: Azure Batch SDK for Java. Run large-scale parallel and HPC batch jobs with pools, jobs, tasks, and compute nodes.
+- **azure-containerregistry-py**: Azure Container Registry SDK for Python. Use for managing container images, artifacts, and repositories.
+- **azure-cosmos-db-py**: "Build production-grade Azure Cosmos DB NoSQL services following clean code, security best practices, and TDD principles."
+- **azure-cosmos-java**: Azure Cosmos DB SDK for Java. NoSQL database operations with global distribution, multi-model support, and reactive patterns.
+- **azure-cosmos-py**: Azure Cosmos DB SDK for Python (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
+- **azure-cosmos-rust**: Azure Cosmos DB SDK for Rust (NoSQL API). Use for document CRUD, queries, containers, and globally distributed data.
+- **azure-cosmos-ts**: Azure Cosmos DB JavaScript/TypeScript SDK (@azure/cosmos) for data plane operations. Use for CRUD operations on documents, queries, bulk operations, and container management.
+- **azure-data-tables-java**: "Build table storage applications using the Azure Tables SDK for Java. Works with both Azure Table Storage and Cosmos DB Table API."
+- **azure-data-tables-py**: Azure Tables SDK for Python (Storage and Cosmos DB). Use for NoSQL key-value storage, entity CRUD, and batch operations.
+- **azure-eventgrid-dotnet**: Azure Event Grid SDK for .NET. Client library for publishing and consuming events with Azure Event Grid. Use for event-driven architectures, pub/sub messaging, CloudEvents, and EventGridEvents.
+- **azure-eventgrid-java**: "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events."
+- **azure-eventgrid-py**: Azure Event Grid SDK for Python. Use for publishing events, handling CloudEvents, and event-driven architectures.
+- **azure-eventhub-dotnet**: Azure Event Hubs SDK for .NET.
+- **azure-eventhub-java**: "Build real-time streaming applications with Azure Event Hubs SDK for Java. Use when implementing event streaming, high-throughput data ingestion, or building event-driven architectures."
+- **azure-eventhub-py**: Azure Event Hubs SDK for Python streaming. Use for high-throughput event ingestion, producers, consumers, and checkpointing.
+- **azure-eventhub-rust**: Azure Event Hubs SDK for Rust. Use for sending and receiving events, streaming data ingestion.
+- **azure-eventhub-ts**: "High-throughput event streaming and real-time data ingestion."
+- **azure-functions**: Expert patterns for Azure Functions development including isolated
+- **azure-identity-dotnet**: Azure Identity SDK for .NET. Authentication library for Azure SDK clients using Microsoft Entra ID. Use for DefaultAzureCredential, managed identity, service principals, and developer credentials.
+- **azure-identity-java**: "Authenticate Java applications with Azure services using Microsoft Entra ID (Azure AD)."
+- **azure-identity-py**: Azure Identity SDK for Python authentication. Use for DefaultAzureCredential, managed identity, service principals, and token caching.
+- **azure-identity-rust**: Azure Identity SDK for Rust authentication. Use for DeveloperToolsCredential, ManagedIdentityCredential, ClientSecretCredential, and token-based authentication.
+- **azure-identity-ts**: "Authenticate to Azure services with various credential types."
+- **azure-keyvault-certificates-rust**: Azure Key Vault Certificates SDK for Rust. Use for creating, importing, and managing certificates.
+- **azure-keyvault-keys-rust**: 'Azure Key Vault Keys SDK for Rust. Use for creating, managing, and using cryptographic keys. Triggers: "keyvault keys rust", "KeyClient rust", "create key rust", "encrypt rust", "sign rust".'
+- **azure-keyvault-keys-ts**: "Manage cryptographic keys using Azure Key Vault Keys SDK for JavaScript (@azure/keyvault-keys). Use when creating, encrypting/decrypting, signing, or rotating keys."
+- **azure-keyvault-py**: Azure Key Vault SDK for Python. Use for secrets, keys, and certificates management with secure storage.
+- **azure-keyvault-secrets-rust**: 'Azure Key Vault Secrets SDK for Rust. Use for storing and retrieving secrets, passwords, and API keys. Triggers: "keyvault secrets rust", "SecretClient rust", "get secret rust", "set secret rust".'
+- **azure-keyvault-secrets-ts**: "Manage secrets using Azure Key Vault Secrets SDK for JavaScript (@azure/keyvault-secrets). Use when storing and retrieving application secrets or configuration values."
+- **azure-maps-search-dotnet**: Azure Maps SDK for .NET. Location-based services including geocoding, routing, rendering, geolocation, and weather. Use for address search, directions, map tiles, IP geolocation, and weather data.
+- **azure-messaging-webpubsub-java**: "Build real-time web applications with Azure Web PubSub SDK for Java. Use when implementing WebSocket-based messaging, live updates, chat applications, or server-to-client push notifications."
+- **azure-messaging-webpubsubservice-py**: Azure Web PubSub Service SDK for Python. Use for real-time messaging, WebSocket connections, and pub/sub patterns.
+- **azure-mgmt-apicenter-dotnet**: Azure API Center SDK for .NET. Centralized API inventory management with governance, versioning, and discovery.
+- **azure-mgmt-apicenter-py**: Azure API Center Management SDK for Python. Use for managing API inventory, metadata, and governance across your organization.
+- **azure-mgmt-apimanagement-dotnet**: Azure Resource Manager SDK for API Management in .NET.
+- **azure-mgmt-apimanagement-py**: Azure API Management SDK for Python. Use for managing APIM services, APIs, products, subscriptions, and policies.
+- **azure-mgmt-applicationinsights-dotnet**: Azure Application Insights SDK for .NET. Application performance monitoring and observability resource management.
+- **azure-mgmt-arizeaiobservabilityeval-dotnet**: Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
+- **azure-mgmt-botservice-dotnet**: Azure Resource Manager SDK for Bot Service in .NET. Management plane operations for creating and managing Azure Bot resources, channels (Teams, DirectLine, Slack), and connection settings.
+- **azure-mgmt-botservice-py**: Azure Bot Service Management SDK for Python. Use for creating, managing, and configuring Azure Bot Service resources.
+- **azure-mgmt-fabric-dotnet**: Azure Resource Manager SDK for Fabric in .NET.
+- **azure-mgmt-fabric-py**: Azure Fabric Management SDK for Python. Use for managing Microsoft Fabric capacities and resources.
+- **azure-mgmt-mongodbatlas-dotnet**: "Manage MongoDB Atlas Organizations as Azure ARM resources with unified billing through Azure Marketplace."
+- **azure-mgmt-weightsandbiases-dotnet**: Azure Weights & Biases SDK for .NET. ML experiment tracking and model management via Azure Marketplace. Use for creating W&B instances, managing SSO, marketplace integration, and ML observability.
+- **azure-microsoft-playwright-testing-ts**: "Run Playwright tests at scale with cloud-hosted browsers and integrated Azure portal reporting."
+- **azure-monitor-ingestion-java**: Azure Monitor Ingestion SDK for Java. Send custom logs to Azure Monitor via Data Collection Rules (DCR) and Data Collection Endpoints (DCE).
+- **azure-monitor-ingestion-py**: Azure Monitor Ingestion SDK for Python. Use for sending custom logs to Log Analytics workspace via Logs Ingestion API.
+- **azure-monitor-opentelemetry-py**: Azure Monitor OpenTelemetry Distro for Python. Use for one-line Application Insights setup with auto-instrumentation.
+- **azure-monitor-opentelemetry-ts**: "Auto-instrument Node.js applications with distributed tracing, metrics, and logs."
+- **azure-monitor-query-java**: Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.
+- **azure-monitor-query-py**: Azure Monitor Query SDK for Python. Use for querying Log Analytics workspaces and Azure Monitor metrics.
+- **azure-postgres-ts**: Connect to Azure Database for PostgreSQL Flexible Server from Node.js/TypeScript using the pg (node-postgres) package.
+- **azure-resource-manager-cosmosdb-dotnet**: Azure Resource Manager SDK for Cosmos DB in .NET.
+- **azure-resource-manager-durabletask-dotnet**: Azure Resource Manager SDK for Durable Task Scheduler in .NET.
+- **azure-resource-manager-mysql-dotnet**: Azure MySQL Flexible Server SDK for .NET. Database management for MySQL Flexible Server deployments.
+- **azure-resource-manager-playwright-dotnet**: Azure Resource Manager SDK for Microsoft Playwright Testing in .NET.
+- **azure-resource-manager-postgresql-dotnet**: Azure PostgreSQL Flexible Server SDK for .NET. Database management for PostgreSQL Flexible Server deployments.
+- **azure-resource-manager-redis-dotnet**: Azure Resource Manager SDK for Redis in .NET.
+- **azure-resource-manager-sql-dotnet**: Azure Resource Manager SDK for Azure SQL in .NET.
+- **azure-search-documents-dotnet**: Azure AI Search SDK for .NET (Azure.Search.Documents). Use for building search applications with full-text, vector, semantic, and hybrid search.
+- **azure-search-documents-py**: Azure AI Search SDK for Python. Use for vector search, hybrid search, semantic ranking, indexing, and skillsets.
+- **azure-search-documents-ts**: "Build search applications with vector, hybrid, and semantic search capabilities."
+- **azure-security-keyvault-keys-dotnet**: Azure Key Vault Keys SDK for .NET. Client library for managing cryptographic keys in Azure Key Vault and Managed HSM. Use for key creation, rotation, encryption, decryption, signing, and verification.
+- **azure-security-keyvault-keys-java**: "Azure Key Vault Keys Java SDK for cryptographic key management. Use when creating, managing, or using RSA/EC keys, performing encrypt/decrypt/sign/verify operations, or working with HSM-backed keys."
+- **azure-security-keyvault-secrets-java**: "Azure Key Vault Secrets Java SDK for secret management. Use when storing, retrieving, or managing passwords, API keys, connection strings, or other sensitive configuration data."
+- **azure-servicebus-dotnet**: Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
+- **azure-servicebus-py**: Azure Service Bus SDK for Python messaging. Use for queues, topics, subscriptions, and enterprise messaging patterns.
+- **azure-servicebus-ts**: "Enterprise messaging with queues, topics, and subscriptions."
+- **azure-speech-to-text-rest-py**: Azure Speech to Text REST API for short audio (Python). Use for simple speech recognition of audio files up to 60 seconds without the Speech SDK.
+- **azure-storage-blob-java**: "Build blob storage applications using the Azure Storage Blob SDK for Java."
+- **azure-storage-blob-py**: Azure Blob Storage SDK for Python. Use for uploading, downloading, listing blobs, managing containers, and blob lifecycle.
+- **azure-storage-blob-rust**: Azure Blob Storage SDK for Rust. Use for uploading, downloading, and managing blobs and containers.
+- **azure-storage-blob-ts**: Azure Blob Storage JavaScript/TypeScript SDK (@azure/storage-blob) for blob operations. Use for uploading, downloading, listing, and managing blobs and containers.
+- **azure-storage-file-datalake-py**: Azure Data Lake Storage Gen2 SDK for Python. Use for hierarchical file systems, big data analytics, and file/directory operations.
+- **azure-storage-file-share-py**: Azure Storage File Share SDK for Python. Use for SMB file shares, directories, and file operations in the cloud.
+- **azure-storage-file-share-ts**: Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.
+- **azure-storage-queue-py**: Azure Queue Storage SDK for Python. Use for reliable message queuing, task distribution, and asynchronous processing.
+- **azure-storage-queue-ts**: Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.
+- **azure-web-pubsub-ts**: "Real-time messaging with WebSocket connections and pub/sub patterns."
+- **cicd-automation-workflow-automate**: "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design and implement automation that reduces manual work, improves consistency, and accelerates delivery while maintaining quality and security."
+- **circleci-automation**: "Automate CircleCI tasks via Rube MCP (Composio): trigger pipelines, monitor workflows/jobs, retrieve artifacts and test metadata. Always search tools first for current schemas."
+- **cloud-architect**: Expert cloud architect specializing in AWS/Azure/GCP multi-cloud infrastructure design, advanced IaC (Terraform/OpenTofu/CDK), FinOps cost optimization, and modern architectural patterns.
+- **cloud-devops**: "Cloud infrastructure and DevOps workflow covering AWS, Azure, GCP, Kubernetes, Terraform, CI/CD, monitoring, and cloud-native development."
+- **cloud-penetration-testing**: "Conduct comprehensive security assessments of cloud infrastructure across Microsoft Azure, Amazon Web Services (AWS), and Google Cloud Platform (GCP)."
+- **cloudflare-workers-expert**: "Expert in Cloudflare Workers and the Edge Computing ecosystem. Covers Wrangler, KV, D1, Durable Objects, and R2 storage."
+- **cloudformation-best-practices**: "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates."
+- **database-cloud-optimization-cost-optimize**: "You are a cloud cost optimization expert specializing in reducing infrastructure expenses while maintaining performance and reliability. Analyze cloud spending, identify savings opportunities, and implement cost-effective architectures across AWS, Azure, and GCP."
+- **deployment-engineer**: Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
+- **deployment-pipeline-design**: "Architecture patterns for multi-stage CI/CD pipelines with approval gates and deployment strategies."
+- **deployment-procedures**: "Production deployment principles and decision-making. Safe deployment workflows, rollback strategies, and verification. Teaches thinking, not scripts."
+- **deployment-validation-config-validate**: "You are a configuration management expert specializing in validating, testing, and ensuring the correctness of application configurations. Create comprehensive validation schemas, implement configurat"
+- **docker-expert**: "You are an advanced Docker containerization expert with comprehensive, practical knowledge of container optimization, security hardening, multi-stage builds, orchestration patterns, and production deployment strategies based on current industry best practices."
+- **gcp-cloud-run**: Specialized skill for building production-ready serverless
+- **github**: "Use the `gh` CLI for issues, pull requests, Actions runs, and GitHub API queries."
+- **github-actions-templates**: "Production-ready GitHub Actions workflow patterns for testing, building, and deploying applications."
+- **github-automation**: "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically."
+- **github-issue-creator**: "Turn error logs, screenshots, voice notes, and rough bug reports into crisp, developer-ready GitHub issues with repro steps, impact, and evidence."
+- **github-workflow-automation**: "Patterns for automating GitHub workflows with AI assistance, inspired by [Gemini CLI](https://github.com/google-gemini/gemini-cli) and modern DevOps practices."
+- **gitlab-automation**: "Automate GitLab project management, issues, merge requests, pipelines, branches, and user operations via Rube MCP (Composio). Always search tools first for current schemas."
+- **gitlab-ci-patterns**: "Comprehensive GitLab CI/CD pipeline patterns for automated testing, building, and deployment."
+- **helm-chart-scaffolding**: "Comprehensive guidance for creating, organizing, and managing Helm charts for packaging and deploying Kubernetes applications."
+- **hybrid-cloud-architect**: Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
+- **hybrid-cloud-networking**: "Configure secure, high-performance connectivity between on-premises and cloud environments using VPN, Direct Connect, and ExpressRoute."
+- **kubernetes-architect**: Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
+- **kubernetes-deployment**: "Kubernetes deployment workflow for container orchestration, Helm charts, service mesh, and production-ready K8s configurations."
+- **makepad-deployment**: |
+- **microsoft-azure-webjobs-extensions-authentication-events-dotnet**: Microsoft Entra Authentication Events SDK for .NET. Azure Functions triggers for custom authentication extensions.
+- **multi-cloud-architecture**: "Decision framework and patterns for architecting applications across AWS, Azure, and GCP."
+- **odoo-docker-deployment**: "Production-ready Docker and docker-compose setup for Odoo with PostgreSQL, persistent volumes, environment-based configuration, and Nginx reverse proxy."
+- **openclaw-github-repo-commander**: "7-stage super workflow for GitHub repo audit, cleanup, PR review, and competitor analysis"
+- **render-automation**: "Automate Render tasks via Rube MCP (Composio): services, deployments, projects. Always search tools first for current schemas."
+- **terraform-aws-modules**: "Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure."
+- **terraform-infrastructure**: "Terraform infrastructure as code workflow for provisioning cloud resources, creating reusable modules, and managing infrastructure at scale."
+- **terraform-module-library**: "Production-ready Terraform module patterns for AWS, Azure, and GCP infrastructure."
+- **terraform-skill**: "Terraform infrastructure as code best practices"
+- **terraform-specialist**: Expert Terraform/OpenTofu specialist mastering advanced IaC automation, state management, and enterprise infrastructure patterns.
+- **upstash-qstash**: Upstash QStash expert for serverless message queues, scheduled
+- **vercel-automation**: "Automate Vercel tasks via Rube MCP (Composio): manage deployments, domains, DNS, env vars, projects, and teams. Always search tools first for current schemas."
+- **vercel-deployment**: Expert knowledge for deploying to Vercel with Next.js
+- **whatsapp-cloud-api**: Integracao com WhatsApp Business Cloud API (Meta). Mensagens, templates, webhooks HMAC-SHA256, automacao de atendimento. Boilerplates Node.js e Python.

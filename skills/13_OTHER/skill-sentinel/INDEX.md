@@ -1,0 +1,4 @@
+# skill-sentinel
+
+- references
+- scripts

@@ -1,0 +1,3 @@
+# godot-gdscript-patterns
+
+- resources

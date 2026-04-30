@@ -1,0 +1,3 @@
+# sql-optimization-patterns
+
+- resources

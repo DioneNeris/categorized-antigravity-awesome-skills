@@ -1,0 +1,3 @@
+# backend-dev-guidelines
+
+- resources

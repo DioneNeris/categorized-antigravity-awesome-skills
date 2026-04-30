@@ -1,0 +1,3 @@
+# postgres-best-practices
+
+- rules

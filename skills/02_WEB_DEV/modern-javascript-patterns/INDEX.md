@@ -1,0 +1,3 @@
+# modern-javascript-patterns
+
+- resources

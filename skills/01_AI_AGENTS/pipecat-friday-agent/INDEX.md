@@ -1,0 +1,3 @@
+# pipecat-friday-agent
+
+- scripts

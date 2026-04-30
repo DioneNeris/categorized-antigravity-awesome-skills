@@ -1,0 +1,3 @@
+# remotion-best-practices
+
+- rules

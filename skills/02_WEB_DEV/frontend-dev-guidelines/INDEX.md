@@ -1,0 +1,3 @@
+# frontend-dev-guidelines
+
+- resources

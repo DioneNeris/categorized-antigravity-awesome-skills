@@ -1,0 +1,3 @@
+# security-requirement-extraction
+
+- resources

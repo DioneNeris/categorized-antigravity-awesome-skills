@@ -1,0 +1,3 @@
+# go-playwright
+
+- resources

@@ -1,0 +1,3 @@
+# bash-defensive-patterns
+
+- resources

@@ -1,0 +1,43 @@
+# 10_SYSTEM_TOOLS
+
+- **api-documentation**: "API documentation workflow for generating OpenAPI specs, creating developer guides, and maintaining comprehensive API documentation."
+- **api-documentation-generator**: "Generate comprehensive, developer-friendly API documentation from code, including endpoints, parameters, examples, and best practices"
+- **app-store-changelog**: Generate user-facing App Store release notes from git history since the last tag.
+- **bash-defensive-patterns**: "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety."
+- **bash-linux**: "Bash/Linux terminal patterns. Critical commands, piping, error handling, scripting. Use when working on macOS or Linux systems."
+- **bash-pro**: 'Master of defensive Bash scripting for production automation, CI/CD
+- **bash-scripting**: "Bash scripting workflow for creating production-ready shell scripts with defensive patterns, error handling, and testing."
+- **cc-skill-clickhouse-io**: "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
+- **code-documentation-code-explain**: "You are a code education expert specializing in explaining complex code through clear narratives, visual diagrams, and step-by-step breakdowns. Transform difficult concepts into understandable explanations for developers at all levels."
+- **code-documentation-doc-generate**: "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices."
+- **commit**: ALWAYS use this skill when committing code changes — never commit directly without it. Creates commits following Sentry conventions with proper conventional commit format and issue references. Trigger on any commit, git commit, save changes, or commit message task.
+- **devcontainer-setup**: Creates devcontainers with Claude Code, language-specific tooling (Python/Node/Rust/Go), and persistent volumes. Use when adding devcontainer support to a project, setting up isolated development environments, or configuring sandboxed Claude Code workspaces.
+- **documentation**: "Documentation generation workflow covering API docs, architecture docs, README files, code comments, and technical writing."
+- **documentation-generation-doc-generate**: "You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user guides, and technical references using AI-powered analysis and industry best practices."
+- **documentation-templates**: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
+- **environment-setup-guide**: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
+- **gdb-cli**: "GDB debugging assistant for AI agents - analyze core dumps, debug live processes, investigate crashes and deadlocks with source code correlation"
+- **git-advanced-workflows**: "Master advanced Git techniques to maintain clean history, collaborate effectively, and recover from any situation with confidence."
+- **git-pr-workflows-git-workflow**: "Orchestrate a comprehensive git workflow from code review through PR creation, leveraging specialized agents for quality assurance, testing, and deployment readiness. This workflow implements modern g"
+- **git-pr-workflows-onboard**: "You are an **expert onboarding specialist and knowledge transfer architect** with deep experience in remote-first organizations, technical team integration, and accelerated learning methodologies. You"
+- **git-pr-workflows-pr-enhance**: "You are a PR optimization expert specializing in creating high-quality pull requests that facilitate efficient code reviews. Generate comprehensive PR descriptions, automate review processes, and ensu"
+- **git-pushing**: "Stage all changes, create a conventional commit, and push to the remote branch. Use when explicitly asks to push changes (\"push this\", \"commit and push\"), mentions saving work to remote (\"save to github\", \"push to remote\"), or completes a feature and wants to share it."
+- **gitops-workflow**: "Complete guide to implementing GitOps workflows with ArgoCD and Flux for automated Kubernetes deployments."
+- **linkedin-cli**: "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator."
+- **linux-shell-scripting**: "Provide production-ready shell script templates for common Linux system administration tasks including backups, monitoring, user management, log analysis, and automation. These scripts serve as building blocks for security operations and penetration testing environments."
+- **linux-troubleshooting**: "Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures."
+- **mmx-cli**: "Use mmx to generate text, images, video, speech, and music via the MiniMax AI platform. Use when the user wants to create media content, chat with MiniMax models, perform web search, or manage MiniMax API resources from the terminal."
+- **obsidian-bases**: Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.
+- **obsidian-cli**: "Use the Obsidian CLI to read, create, search, and manage vault content, or to develop and debug Obsidian plugins and themes from the command line."
+- **obsidian-clipper-template-creator**: Guide for creating templates for the Obsidian Web Clipper. Use when you want to create a new clipping template, understand available variables, or format clipped content.
+- **obsidian-markdown**: Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.
+- **office-productivity**: "Office productivity workflow covering document creation, spreadsheet automation, presentation generation, and integration with LibreOffice and Microsoft Office formats."
+- **powershell-windows**: "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
+- **readme**: "You are an expert technical writer creating comprehensive project documentation. Your goal is to write a README.md that is absurdly thorough—the kind of documentation you wish every project had."
+- **shellcheck-configuration**: "Master ShellCheck static analysis configuration and usage for shell script quality. Use when setting up linting infrastructure, fixing code issues, or ensuring script portability."
+- **ssh-penetration-testing**: "Conduct comprehensive SSH security assessments including enumeration, credential attacks, vulnerability exploitation, tunneling techniques, and post-exploitation activities. This skill covers the complete methodology for testing SSH service security."
+- **tmux**: "Expert tmux session, window, and pane management for terminal multiplexing, persistent remote workflows, and shell scripting automation."
+- **using-git-worktrees**: "Git worktrees create isolated workspaces sharing the same repository, allowing work on multiple branches simultaneously without switching."
+- **vexor-cli**: Semantic file discovery via `vexor`. Use whenever locating where something is implemented/loaded/defined in a medium or large repo, or when the file location is unclear. Prefer this over manual browsing.
+- **wiki-changelog**: "Generate structured changelogs from git history. Use when user asks \"what changed recently\", \"generate a changelog\", \"summarize commits\" or user wants to understand recent development activity."
+- **windows-shell-reliability**: "Reliable command execution on Windows: paths, encoding, and common binary pitfalls."

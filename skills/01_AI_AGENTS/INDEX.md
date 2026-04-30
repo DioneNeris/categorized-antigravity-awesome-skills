@@ -1,0 +1,140 @@
+# 01_AI_AGENTS
+
+- **agent-evaluation**: Testing and benchmarking LLM agents including behavioral testing,
+- **agent-framework-azure-ai-py**: "Build persistent agents on Azure AI Foundry using the Microsoft Agent Framework Python SDK."
+- **agent-manager-skill**: "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
+- **agent-memory-mcp**: "A hybrid memory system that provides persistent, searchable knowledge management for AI agents (Architecture, Patterns, Decisions)."
+- **agent-memory-systems**: "Memory is the cornerstone of intelligent agents. Without it, every
+- **agent-orchestration-improve-agent**: "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration."
+- **agent-orchestration-multi-agent-optimize**: "Optimize multi-agent systems with coordinated profiling, workload distribution, and cost-aware orchestration. Use when improving agent performance, throughput, or reliability."
+- **agent-orchestrator**: Meta-skill que orquestra todos os agentes do ecossistema. Scan automatico de skills, match por capacidades, coordenacao de workflows multi-skill e registry management.
+- **agent-tool-builder**: Tools are how AI agents interact with the world. A well-designed
+- **agentflow**: "Orchestrate autonomous AI development pipelines through your Kanban board (Asana, GitHub Projects, Linear). Manages multi-worker Claude Code dispatch, deterministic quality gates, adversarial review, per-task cost tracking, and crash-proof pipeline execution."
+- **agentfolio**: "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory."
+- **agentic-actions-auditor**: >
+- **agentmail**: Email infrastructure for AI agents. Create accounts, send/receive emails, manage webhooks, and check karma balance via the AgentMail API.
+- **agentphone**: Build AI phone agents with AgentPhone API. Use when the user wants to make phone calls, send/receive SMS, manage phone numbers, create voice agents, set up webhooks, or check usage — anything related to telephony, phone numbers, or voice AI.
+- **agents-md**: This skill should be used when the user asks to "create AGENTS.md", "update AGENTS.md", "maintain agent docs", "set up CLAUDE.md", or needs to keep agent instructions concise. Enforces research-backed best practices for minimal, high-signal agent documentation.
+- **agents-v2-py**: "Build container-based Foundry Agents with Azure AI Projects SDK (ImageBasedHostedAgentDefinition). Use when creating hosted agents with custom container images in Azure AI Foundry."
+- **ai-agent-development**: "AI agent development workflow for building autonomous agents, multi-agent systems, and agent orchestration with CrewAI, LangGraph, and custom agents."
+- **ai-agents-architect**: Expert in designing and building autonomous AI agents. Masters tool
+- **ai-analyzer**: AI驱动的综合健康分析系统，整合多维度健康数据、识别异常模式、预测健康风险、提供个性化建议。支持智能问答和AI健康报告生成。
+- **ai-dev-jobs-mcp**: "Search 8,400+ AI and ML jobs across 489 companies, inspect listings and employers, match roles, and view salary and market stats via AI Dev Jobs MCP"
+- **ai-engineer**: Build production-ready LLM applications, advanced RAG systems, and intelligent agents. Implements vector search, multimodal AI, agent orchestration, and enterprise AI integrations.
+- **ai-engineering-toolkit**: "6 production-ready AI engineering workflows: prompt evaluation (8-dimension scoring), context budget planning, RAG pipeline design, agent security audit (65-point checklist), eval harness building, and product sense coaching."
+- **ai-md**: "Convert human-written CLAUDE.md into AI-native structured-label format. Battle-tested across 4 models. Same rules, fewer tokens, higher compliance."
+- **ai-ml**: "AI and machine learning workflow covering LLM application development, RAG implementation, agent architecture, ML pipelines, and AI-powered features."
+- **ai-native-cli**: "Design spec with 98 rules for building CLI tools that AI agents can safely use. Covers structured JSON output, error handling, input contracts, safety guardrails, exit codes, and agent self-description."
+- **ai-product**: Every product will be AI-powered. The question is whether you'll
+- **ai-seo**: "Optimize content for AI search and LLM citations across AI Overviews, ChatGPT, Perplexity, Claude, Gemini, and similar systems. Use when improving AI visibility, answer engine optimization, or citation readiness."
+- **ai-studio-image**: Geracao de imagens humanizadas via Google AI Studio (Gemini). Fotos realistas estilo influencer ou educacional com iluminacao natural e imperfeicoes sutis.
+- **ai-wrapper-product**: Expert in building products that wrap AI APIs (OpenAI, Anthropic,
+- **andrej-karpathy**: "Agente que simula Andrej Karpathy — ex-Director of AI da Tesla, co-fundador da OpenAI, fundador da Eureka Labs, e o maior educador de deep learning do mundo."
+- **autonomous-agent-patterns**: "Design patterns for building autonomous coding agents, inspired by [Cline](https://github.com/cline/cline) and [OpenAI Codex](https://github.com/openai/codex)."
+- **autonomous-agents**: Autonomous agents are AI systems that can independently decompose
+- **avoid-ai-writing**: "Audit and rewrite content to remove 21 categories of AI writing patterns with a 43-entry replacement table"
+- **azure-ai-agents-persistent-dotnet**: Azure AI Agents Persistent SDK for .NET. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
+- **azure-ai-agents-persistent-java**: Azure AI Agents Persistent SDK for Java. Low-level SDK for creating and managing AI agents with threads, messages, runs, and tools.
+- **azure-ai-anomalydetector-java**: "Build anomaly detection applications with Azure AI Anomaly Detector SDK for Java. Use when implementing univariate/multivariate anomaly detection, time-series analysis, or AI-powered monitoring."
+- **azure-ai-contentsafety-java**: "Build content moderation applications using the Azure AI Content Safety SDK for Java."
+- **azure-ai-contentsafety-py**: Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.
+- **azure-ai-contentsafety-ts**: "Analyze text and images for harmful content with customizable blocklists."
+- **azure-ai-contentunderstanding-py**: Azure AI Content Understanding SDK for Python. Use for multimodal content extraction from documents, images, audio, and video.
+- **azure-ai-document-intelligence-dotnet**: Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
+- **azure-ai-document-intelligence-ts**: "Extract text, tables, and structured data from documents using prebuilt and custom models."
+- **azure-ai-formrecognizer-java**: "Build document analysis applications using the Azure AI Document Intelligence SDK for Java."
+- **azure-ai-ml-py**: Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
+- **azure-ai-openai-dotnet**: Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.
+- **azure-ai-projects-dotnet**: Azure AI Projects SDK for .NET. High-level client for Azure AI Foundry projects including agents, connections, datasets, deployments, evaluations, and indexes.
+- **azure-ai-projects-java**: Azure AI Projects SDK for Java. High-level SDK for Azure AI Foundry project management including connections, datasets, indexes, and evaluations.
+- **azure-ai-projects-py**: "Build AI applications on Microsoft Foundry using the azure-ai-projects SDK."
+- **azure-ai-projects-ts**: "High-level SDK for Azure AI Foundry projects with agents, connections, deployments, and evaluations."
+- **azure-ai-textanalytics-py**: Azure AI Text Analytics SDK for sentiment analysis, entity recognition, key phrases, language detection, PII, and healthcare NLP. Use for natural language processing on text.
+- **azure-ai-transcription-py**: Azure AI Transcription SDK for Python. Use for real-time and batch speech-to-text transcription with timestamps and diarization.
+- **azure-ai-translation-document-py**: Azure AI Document Translation SDK for batch translation of documents with format preservation. Use for translating Word, PDF, Excel, PowerPoint, and other document formats at scale.
+- **azure-ai-translation-text-py**: Azure AI Text Translation SDK for real-time text translation, transliteration, language detection, and dictionary lookup. Use for translating text content in applications.
+- **azure-ai-translation-ts**: "Text and document translation with REST-style clients."
+- **azure-ai-vision-imageanalysis-java**: "Build image analysis applications with Azure AI Vision SDK for Java. Use when implementing image captioning, OCR text extraction, object detection, tagging, or smart cropping."
+- **azure-ai-vision-imageanalysis-py**: Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.
+- **azure-ai-voicelive-dotnet**: Azure AI Voice Live SDK for .NET. Build real-time voice AI applications with bidirectional WebSocket communication.
+- **azure-ai-voicelive-java**: Azure AI VoiceLive SDK for Java. Real-time bidirectional voice conversations with AI assistants using WebSocket.
+- **azure-ai-voicelive-py**: "Build real-time voice AI applications with bidirectional WebSocket communication."
+- **azure-ai-voicelive-ts**: Azure AI Voice Live SDK for JavaScript/TypeScript. Build real-time voice AI applications with bidirectional WebSocket communication.
+- **brand-guidelines-anthropic**: "To access Anthropic's official brand identity and style resources, use this skill."
+- **code-review-ai-ai-review**: "You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C"
+- **computer-use-agents**: Build AI agents that interact with computers like humans do -
+- **context-agent**: Agente de contexto para continuidade entre sessoes. Salva resumos, decisoes, tarefas pendentes e carrega briefing automatico na sessao seguinte.
+- **crewai**: Expert in CrewAI - the leading role-based multi-agent framework
+- **crypto-bd-agent**: "Production-tested patterns for building AI agents that autonomously discover, > evaluate, and acquire token listings for cryptocurrency exchanges."
+- **dispatching-parallel-agents**: "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies"
+- **earllm-build**: "Build, maintain, and extend the EarLLM One Android project — a Kotlin/Compose app that connects Bluetooth earbuds to an LLM via voice pipeline."
+- **emblemai-crypto-wallet**: "Crypto wallet management across 7 blockchains via EmblemAI Agent Hustle API. Balance checks, token swaps, portfolio analysis, and transaction execution for Solana, Ethereum, Base, BSC, Polygon, Hedera, and Bitcoin."
+- **error-debugging-multi-agent-review**: "Use when working with error debugging multi agent review"
+- **gemini-api-dev**: "The Gemini API provides access to Google's most advanced AI models. Key capabilities include:"
+- **gemini-api-integration**: "Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices."
+- **geoffrey-hinton**: "Agente que simula Geoffrey Hinton — Godfather of Deep Learning, Prêmio Turing 2018, criador do backpropagation e das Deep Belief Networks."
+- **global-chat-agent-discovery**: "Discover and search 18K+ MCP servers and AI agents across 6+ registries using Global Chat's cross-protocol directory and MCP server."
+- **hierarchical-agent-memory**: "Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context."
+- **hosted-agents**: Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.
+- **hosted-agents-v2-py**: "Build hosted agents using Azure AI Projects SDK with ImageBasedHostedAgentDefinition. Use when creating container-based agents in Azure AI Foundry."
+- **hugging-face-cli**: "Use the Hugging Face Hub CLI (`hf`) to download, upload, and manage models, datasets, and Spaces."
+- **hugging-face-community-evals**: Run local evaluations for Hugging Face Hub models with inspect-ai or lighteval.
+- **hugging-face-dataset-viewer**: Query Hugging Face datasets through the Dataset Viewer API for splits, rows, search, filters, and parquet links.
+- **hugging-face-datasets**: Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, streaming row updates, and SQL-based dataset querying/transformation. Designed to work alongside HF MCP server for comprehensive dataset workflows.
+- **hugging-face-evaluation**: Add and manage evaluation results in Hugging Face model cards. Supports extracting eval tables from README content, importing scores from Artificial Analysis API, and running custom model evaluations with vLLM/lighteval. Works with the model-index metadata format.
+- **hugging-face-gradio**: Build or edit Gradio apps, layouts, components, and chat interfaces in Python.
+- **hugging-face-jobs**: Run workloads on Hugging Face Jobs with managed CPUs, GPUs, TPUs, secrets, and Hub persistence.
+- **hugging-face-model-trainer**: Train or fine-tune TRL language models on Hugging Face Jobs, including SFT, DPO, GRPO, and GGUF export.
+- **hugging-face-paper-publisher**: Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.
+- **hugging-face-papers**: Read and analyze Hugging Face paper pages or arXiv papers with markdown and papers API metadata.
+- **hugging-face-tool-builder**: "Your purpose is now is to create reusable command line scripts and utilities for using the Hugging Face API, allowing chaining, piping and intermediate processing where helpful. You can access the API directly, as well as use the hf command line tool."
+- **hugging-face-trackio**: Track ML experiments with Trackio using Python logging, alerts, and CLI metric retrieval.
+- **hugging-face-vision-trainer**: Train or fine-tune vision models on Hugging Face Jobs for detection, classification, and SAM or SAM2 segmentation.
+- **ilya-sutskever**: "Agente que simula Ilya Sutskever — co-fundador da OpenAI, ex-Chief Scientist, fundador da SSI. Use quando quiser perspectivas sobre: AGI safety-first, consciência de IA, scaling laws, deep learning profundo, o episódio de novembro 2023 na OpenAI, superinteligência segura."
+- **internal-comms-anthropic**: "To write internal communications, use this skill for:"
+- **ios-debugger-agent**: Debug the current iOS project on a booted simulator with XcodeBuildMCP.
+- **lambdatest-agent-skills**: "Production-grade test automation skills for 46 frameworks across E2E, unit, mobile, BDD, visual, and cloud testing in 15+ languages."
+- **langchain-architecture**: "Master the LangChain framework for building sophisticated LLM applications with agents, chains, memory, and tool integration."
+- **llm-app-patterns**: "Production-ready patterns for building LLM applications, inspired by [Dify](https://github.com/langgenius/dify) and industry best practices."
+- **llm-application-dev-ai-assistant**: "You are an AI assistant development expert specializing in creating intelligent conversational interfaces, chatbots, and AI-powered applications. Design comprehensive AI assistant solutions with natur"
+- **llm-application-dev-langchain-agent**: "You are an expert LangChain agent developer specializing in production-grade AI systems using LangChain 0.1+ and LangGraph."
+- **llm-application-dev-prompt-optimize**: "You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanced techniques including constitutional AI, chain-of-thought reasoning, and model-specific optimizati"
+- **llm-evaluation**: "Master comprehensive evaluation strategies for LLM applications, from automated metrics to human evaluation and A/B testing."
+- **llm-ops**: "LLM Operations -- RAG, embeddings, vector databases, fine-tuning, prompt engineering avancado, custos de LLM, evals de qualidade e arquiteturas de IA para producao."
+- **llm-prompt-optimizer**: "Use when improving prompts for any LLM. Applies proven prompt engineering techniques to boost output quality, reduce hallucinations, and cut token usage."
+- **llm-structured-output**: >
+- **local-llm-expert**: Master local LLM inference, model selection, VRAM optimization, and local deployment using Ollama, llama.cpp, vLLM, and LM Studio. Expert in quantization formats (GGUF, EXL2) and local AI privacy.
+- **m365-agents-dotnet**: Microsoft 365 Agents SDK for .NET. Build multichannel agents for Teams/M365/Copilot Studio with ASP.NET Core hosting, AgentApplication routing, and MSAL-based auth.
+- **m365-agents-py**: Microsoft 365 Agents SDK for Python. Build multichannel agents for Teams/M365/Copilot Studio with aiohttp hosting, AgentApplication routing, streaming responses, and MSAL-based auth.
+- **m365-agents-ts**: Microsoft 365 Agents SDK for TypeScript/Node.js.
+- **mcp-builder**: "Create MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. The quality of an MCP server is measured by how well it enables LLMs to accomplish real-world tasks."
+- **mcp-builder-ms**: "Use this skill when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK)."
+- **multi-agent-brainstorming**: "Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes before implementation."
+- **multi-agent-patterns**: This skill should be used when the user asks to "design multi-agent system", "implement supervisor pattern", "create swarm architecture", "coordinate multiple agents", or mentions multi-agent patterns, context isolation, agent handoffs, sub-agents, or parallel agent execution.
+- **multi-agent-task-orchestrator**: "Route tasks to specialized AI agents with anti-duplication, quality gates, and 30-minute heartbeat monitoring"
+- **n8n-mcp-tools-expert**: Expert guide for using n8n-mcp MCP tools effectively. Use when searching for nodes, validating configurations, accessing templates, managing workflows, or using any n8n-mcp tool. Provides tool selection guidance, parameter formats, and common patterns.
+- **nerdzao-elite-gemini-high**: "Modo Elite Coder + UX Pixel-Perfect otimizado especificamente para Gemini 3.1 Pro High. Workflow completo com foco em qualidade máxima e eficiência de tokens."
+- **parallel-agents**: "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
+- **performance-testing-review-ai-review**: "You are an expert AI-powered code review specialist combining automated static analysis, intelligent pattern recognition, and modern DevOps practices. Leverage AI tools (GitHub Copilot, Qodo, GPT-5, C"
+- **performance-testing-review-multi-agent-review**: "Use when working with performance testing review multi agent review"
+- **pipecat-friday-agent**: "Build a low-latency, Iron Man-inspired tactical voice assistant (F.R.I.D.A.Y.) using Pipecat, Gemini, and OpenAI."
+- **prompt-caching**: Caching strategies for LLM prompts including Anthropic prompt
+- **prompt-engineer**: "Transforms user prompts into optimized prompts using frameworks (RTF, RISEN, Chain of Thought, RODES, Chain of Density, RACE, RISE, STAR, SOAP, CLEAR, GROW)"
+- **prompt-engineering**: "Expert guide on prompt engineering patterns, best practices, and optimization techniques. Use when user wants to improve prompts, learn prompting strategies, or debug agent behavior."
+- **prompt-engineering-patterns**: "Master advanced prompt engineering techniques to maximize LLM performance, reliability, and controllability."
+- **prompt-library**: "A comprehensive collection of battle-tested prompts inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and community best practices."
+- **protect-mcp-governance**: "Agent governance skill for MCP tool calls — Cedar policy authoring, shadow-to-enforce rollout, and Ed25519 receipt verification."
+- **rag-engineer**: Expert in building Retrieval-Augmented Generation systems. Masters
+- **rag-implementation**: "RAG (Retrieval-Augmented Generation) implementation workflow covering embedding selection, vector database setup, chunking strategies, and retrieval optimization."
+- **sam-altman**: "Agente que simula Sam Altman — CEO da OpenAI, ex-presidente da Y Combinator, arquiteto da era AGI."
+- **satori**: "Clinically informed wisdom companion blending psychology and philosophy into a structured thinking partner"
+- **subagent-driven-development**: "Use when executing implementation plans with independent tasks in the current session"
+- **vercel-ai-sdk-expert**: "Expert in the Vercel AI SDK. Covers Core API (generateText, streamText), UI hooks (useChat, useCompletion), tool calling, and streaming UI components with React and Next.js."
+- **voice-agents**: Voice agents represent the frontier of AI interaction - humans
+- **voice-ai-development**: Expert in building voice AI applications - from real-time voice
+- **voice-ai-engine-development**: "Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support"
+- **yann-lecun**: "Agente que simula Yann LeCun — inventor das Convolutional Neural Networks, Chief AI Scientist da Meta, Prêmio Turing 2018."
+- **yann-lecun-debate**: "Sub-skill de debates e posições de Yann LeCun. Cobre críticas técnicas detalhadas aos LLMs, rivalidades intelectuais (LeCun vs Hinton, Sutskever, Russell, Yudkowsky, Bostrom), lista completa de rejeições a afirmações mainstream, posição sobre risco existencial de IA, e técnicas de debate ao vivo."
+- **yann-lecun-filosofia**: "Sub-skill filosófica e pedagógica de Yann LeCun."
+- **yann-lecun-tecnico**: "Sub-skill técnica de Yann LeCun. Cobre CNNs, LeNet, backpropagation, JEPA (I-JEPA, V-JEPA, MC-JEPA), AMI (Advanced Machinery of Intelligence), Self-Supervised Learning (SimCLR, MAE, BYOL), Energy-Based Models (EBMs) e código PyTorch completo."
+- **zipai-optimizer**: "Adaptive token optimizer: intelligent filtering, surgical output, ambiguity-first, context-window-aware, VCS-aware, MCP-aware."

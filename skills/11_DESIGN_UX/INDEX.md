@@ -1,0 +1,59 @@
+# 11_DESIGN_UX
+
+- **api-design-principles**: "Master REST and GraphQL API design principles to build intuitive, scalable, and maintainable APIs that delight developers and stand the test of time."
+- **avalonia-layout-zafiro**: "Guidelines for modern Avalonia UI layout using Zafiro.Avalonia, emphasizing shared styles, generic components, and avoiding XAML redundancy."
+- **canvas-design**: "These are instructions for creating design philosophies - aesthetic movements that are then EXPRESSED VISUALLY. Output only .md files, .pdf files, and .png files."
+- **comfyui-gateway**: REST API gateway for ComfyUI servers. Workflow management, job queuing, webhooks, caching, auth, rate limiting, and image delivery (URL + base64).
+- **ddd-strategic-design**: "Design DDD strategic artifacts including subdomains, bounded contexts, and ubiquitous language for complex business domains."
+- **design-md**: "Analyze Stitch projects and synthesize a semantic design system into DESIGN.md files"
+- **design-orchestration**: Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
+- **domain-driven-design**: "Plan and route Domain-Driven Design work from strategic modeling to tactical implementation and evented architecture patterns."
+- **emotional-arc-designer**: "One sentence - what this skill does and when to invoke it"
+- **event-store-design**: "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns."
+- **hig-components-layout**: Apple Human Interface Guidelines for layout and navigation components.
+- **high-end-visual-design**: "Use when designing expensive agency-grade interfaces with premium fonts, spatial rhythm, soft depth, and fluid microinteractions."
+- **json-canvas**: Create and edit JSON Canvas files (.canvas) with nodes, edges, groups, and connections. Use when working with .canvas files, creating visual canvases, mind maps, flowcharts, or when the user mentions Canvas files in Obsidian.
+- **kpi-dashboard-design**: "Comprehensive patterns for designing effective Key Performance Indicator (KPI) dashboards that drive business decisions."
+- **loss-aversion-designer**: "One sentence - what this skill does and when to invoke it"
+- **makepad-animation**: |
+- **makepad-layout**: |
+- **osterwalder-canvas-architect**: "Iterative consultant agent for building and validating logically consistent 9-block Business Model Canvases."
+- **privacy-by-design**: "Use when building apps that collect user data. Ensures privacy protections are built in from the start—data minimization, consent, encryption."
+- **product-design**: "Design de produto nivel Apple — sistemas visuais, UX flows, acessibilidade, linguagem visual proprietaria, design tokens, prototipagem e handoff. Cobre Figma, design systems, tipografia, cor, espacamento, motion design e principios de design cognitivo."
+- **redesign-existing-projects**: "Use when upgrading existing websites or apps by auditing generic UI patterns and applying premium design fixes without rewrites."
+- **remotion**: Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays
+- **remotion-best-practices**: "Best practices for Remotion - Video creation in React"
+- **scroll-experience**: Expert in building immersive scroll-driven experiences - parallax
+- **spline-3d-integration**: "Use when adding interactive 3D scenes from Spline.design to web projects, including React embedding and runtime control API."
+- **stitch-design-taste**: "Use when generating Google Stitch DESIGN.md systems for premium typography, color, layout, motion intent, and anti-generic UI rules."
+- **stitch-ui-design**: "Expert guidance for crafting effective prompts in Google Stitch, the AI-powered UI design tool by Google Labs. This skill helps create precise, actionable prompts that generate high-quality UI designs for web and mobile applications."
+- **threejs-animation**: Three.js animation - keyframe animation, skeletal animation, morph targets, animation mixing. Use when animating objects, playing GLTF animations, creating procedural motion, or blending animations.
+- **threejs-fundamentals**: Three.js scene setup, cameras, renderer, Object3D hierarchy, coordinate systems. Use when setting up 3D scenes, creating cameras, configuring renderers, managing object hierarchies, or working with transforms.
+- **threejs-geometry**: Three.js geometry creation - built-in shapes, BufferGeometry, custom geometry, instancing. Use when creating 3D shapes, working with vertices, building custom meshes, or optimizing with instanced rendering.
+- **threejs-interaction**: Three.js interaction - raycasting, controls, mouse/touch input, object selection. Use when handling user input, implementing click detection, adding camera controls, or creating interactive 3D experiences.
+- **threejs-lighting**: Three.js lighting - light types, shadows, environment lighting. Use when adding lights, configuring shadows, setting up IBL, or optimizing lighting performance.
+- **threejs-loaders**: Three.js asset loading - GLTF, textures, images, models, async patterns. Use when loading 3D models, textures, HDR environments, or managing loading progress.
+- **threejs-materials**: Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling meshes, working with textures, creating custom shaders, or optimizing material performance.
+- **threejs-postprocessing**: Three.js post-processing - EffectComposer, bloom, DOF, screen effects. Use when adding visual effects, color grading, blur, glow, or creating custom screen-space shaders.
+- **threejs-shaders**: Three.js shaders - GLSL, ShaderMaterial, uniforms, custom effects. Use when creating custom visual effects, modifying vertices, writing fragment shaders, or extending built-in materials.
+- **threejs-skills**: "Create 3D scenes, interactive experiences, and visual effects using Three.js. Use when user requests 3D graphics, WebGL experiences, 3D visualizations, animations, or interactive 3D elements."
+- **threejs-textures**: Three.js textures - texture types, UV mapping, environment maps, texture settings. Use when working with images, UV coordinates, cubemaps, HDR environments, or texture optimization.
+- **tool-design**: "Build tools that agents can use effectively, including architectural reduction patterns. Use when creating new tools for agent systems, debugging tool-related failures or misuse, or optimizing existing tool sets for better agent performance."
+- **ui-a11y**: "Audit a StyleSeed-based component or page for WCAG 2.2 AA issues and apply practical accessibility fixes where the code makes them safe."
+- **ui-component**: "Generate a new UI component that follows StyleSeed Toss conventions for structure, tokens, accessibility, and component ergonomics."
+- **ui-page**: "Scaffold a new mobile-first page using StyleSeed Toss layout patterns, section rhythm, and existing shell components."
+- **ui-pattern**: "Generate reusable UI patterns such as card sections, grids, lists, forms, and chart wrappers using StyleSeed Toss primitives."
+- **ui-review**: "Review UI code for StyleSeed design-system compliance, accessibility, mobile ergonomics, spacing discipline, and implementation quality."
+- **ui-setup**: "Interactive StyleSeed setup wizard for choosing app type, brand color, visual style, typography, and the first screen scaffold."
+- **ui-skills**: "Opinionated, evolving constraints to guide agents when building interfaces"
+- **ui-tokens**: "List, add, and update StyleSeed design tokens while keeping JSON sources, CSS variables, and dark-mode values in sync."
+- **ui-ux-designer**: Create interface designs, wireframes, and design systems. Masters user research, accessibility standards, and modern design tools.
+- **ui-ux-pro-max**: "Comprehensive design guide for web and mobile applications. Use when designing new UI components or pages, choosing color palettes and typography, or reviewing code for UX issues."
+- **ui-visual-validator**: Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
+- **ux-audit**: "Audit screens against Nielsen's heuristics and mobile UX best practices using the StyleSeed Toss design language as the implementation context."
+- **ux-copy**: "Generate UX microcopy in StyleSeed's Toss-inspired voice for buttons, empty states, errors, toasts, confirmations, and form guidance."
+- **ux-feedback**: "Add loading, empty, error, and success feedback states to StyleSeed components and pages with practical mobile-first rules."
+- **ux-flow**: "Design user flows and screen structure using StyleSeed UX patterns such as progressive disclosure, hub-and-spoke navigation, and information pyramids."
+- **ux-persuasion-engineer**: "One sentence - what this skill does and when to invoke it"
+- **uxui-principles**: "Evaluate interfaces against 168 research-backed UX/UI principles, detect antipatterns, and inject UX context into AI coding sessions."
+- **web-design-guidelines**: "Review files for compliance with Web Interface Guidelines."

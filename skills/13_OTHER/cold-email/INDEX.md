@@ -1,0 +1,4 @@
+# cold-email
+
+- evals
+- references

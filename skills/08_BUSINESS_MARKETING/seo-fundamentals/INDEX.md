@@ -1,0 +1,3 @@
+# seo-fundamentals
+
+- scripts

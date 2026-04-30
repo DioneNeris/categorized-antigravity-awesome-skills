@@ -1,0 +1,3 @@
+# claude-monitor
+
+- scripts

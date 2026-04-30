@@ -1,0 +1,3 @@
+# cqrs-implementation
+
+- resources

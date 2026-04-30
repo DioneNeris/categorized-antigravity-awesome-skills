@@ -1,0 +1,4 @@
+# senior-frontend
+
+- references
+- scripts

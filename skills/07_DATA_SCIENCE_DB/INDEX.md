@@ -1,0 +1,46 @@
+# 07_DATA_SCIENCE_DB
+
+- **claimable-postgres**: Provision instant temporary Postgres databases via Claimable Postgres by Neon (pg.new). No login or credit card required. Use for quick Postgres environments and throwaway DATABASE_URL for prototyping.
+- **convex**: "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment."
+- **data-engineer**: Build scalable data pipelines, modern data warehouses, and real-time streaming architectures. Implements Apache Spark, dbt, Airflow, and cloud-native data platforms.
+- **data-engineering-data-driven-feature**: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
+- **data-engineering-data-pipeline**: "You are a data pipeline architecture expert specializing in scalable, reliable, and cost-effective data pipelines for batch and streaming data processing."
+- **data-quality-frameworks**: "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts."
+- **data-scientist**: Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.
+- **data-storytelling**: "Transform raw data into compelling narratives that drive decisions and inspire action."
+- **data-structure-protocol**: "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
+- **database**: "Database development and operations workflow covering SQL, NoSQL, database design, migrations, optimization, and data engineering."
+- **database-admin**: Expert database administrator specializing in modern cloud databases, automation, and reliability engineering.
+- **database-architect**: Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
+- **database-design**: "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
+- **database-migration**: "Master database schema and data migrations across ORMs (Sequelize, TypeORM, Prisma), including rollback strategies and zero-downtime deployments."
+- **database-migrations-migration-observability**: "Migration monitoring, CDC, and observability infrastructure"
+- **database-migrations-sql-migrations**: "SQL database migrations with zero-downtime strategies for PostgreSQL, MySQL, and SQL Server. Focus on data integrity and rollback plans."
+- **database-optimizer**: Expert database optimizer specializing in modern performance tuning, query optimization, and scalable architectures.
+- **dbt-transformation-patterns**: "Production-ready patterns for dbt (data build tool) including model organization, testing strategies, documentation, and incremental processing."
+- **food-database-query**: Food Database Query
+- **fp-data-transforms**: Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
+- **gdpr-data-handling**: "Practical implementation guide for GDPR-compliant data processing, consent management, and privacy controls."
+- **machine-learning-ops-ml-pipeline**: "Design and implement a complete ML pipeline for: $ARGUMENTS"
+- **matplotlib**: "Matplotlib is Python's foundational visualization library for creating static, animated, and interactive plots."
+- **ml-engineer**: Build production ML systems with PyTorch 2.x, TensorFlow, and modern ML frameworks. Implements model serving, feature engineering, A/B testing, and monitoring.
+- **ml-pipeline-workflow**: "Complete end-to-end MLOps pipeline orchestration from data preparation through model deployment."
+- **native-data-fetching**: Use when implementing or debugging ANY network request, API call, or data fetching. Covers fetch API, React Query, SWR, error handling, caching, offline support, and Expo Router data loaders (useLoaderData).
+- **neon-postgres**: Expert patterns for Neon serverless Postgres, branching, connection
+- **networkx**: "NetworkX is a Python package for creating, manipulating, and analyzing complex networks and graphs."
+- **nosql-expert**: "Expert guidance for distributed NoSQL databases (Cassandra, DynamoDB). Focuses on mental models, query-first modeling, single-table design, and avoiding hot partitions in high-scale systems."
+- **odoo-xml-views-builder**: "Expert at building Odoo XML views: Form, List, Kanban, Search, Calendar, and Graph. Generates correct XML for Odoo 14-17 with proper visibility syntax."
+- **polars**: Fast in-memory DataFrame library for datasets that fit in RAM. Use when pandas is too slow but data still fits in memory. Lazy evaluation, parallel execution, Apache Arrow backend. Best for 1-100GB datasets, ETL pipelines, faster pandas replacement. For larger-than-RAM data use dask or vaex.
+- **postgres-best-practices**: "Postgres performance optimization and best practices from Supabase. Use this skill when writing, reviewing, or optimizing Postgres queries, schema designs, or database configurations."
+- **postgresql**: "Design a PostgreSQL-specific schema. Covers best-practices, data types, indexing, constraints, performance patterns, and advanced features"
+- **postgresql-optimization**: "PostgreSQL database optimization workflow for query tuning, indexing strategies, performance analysis, and production database management."
+- **pubmed-database**: Direct REST API access to PubMed. Advanced Boolean/MeSH queries, E-utilities API, batch processing, citation management. For Python workflows, prefer biopython (Bio.Entrez). Use this for direct HTTP/REST work or custom API implementations.
+- **scikit-learn**: Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.
+- **seaborn**: "Seaborn is a Python visualization library for creating publication-quality statistical graphics. Use this skill for dataset-oriented plotting, multivariate analysis, automatic statistical estimation, and complex multi-panel figures with minimal code."
+- **snowflake-development**: "Comprehensive Snowflake development assistant covering SQL best practices, data pipeline design (Dynamic Tables, Streams, Tasks, Snowpipe), Cortex AI functions, Cortex Agents, Snowpark Python, dbt integration, performance tuning, and security hardening."
+- **sql-optimization-patterns**: "Transform slow database queries into lightning-fast operations through systematic optimization, proper indexing, and query plan analysis."
+- **sql-pro**: Master modern SQL with cloud-native databases, OLTP/OLAP optimization, and advanced query techniques. Expert in performance tuning, data modeling, and hybrid analytical systems.
+- **uniprot-database**: Direct REST API access to UniProt. Protein searches, FASTA retrieval, ID mapping, Swiss-Prot/TrEMBL. For Python workflows with multiple databases, prefer bioservices (unified interface to 40+ services). Use this for direct HTTP/REST work or UniProt-specific control.
+- **using-neon**: "Neon is a serverless Postgres platform that separates compute and storage to offer autoscaling, branching, instant restore, and scale-to-zero. It's fully compatible with Postgres and works with any language, framework, or ORM that supports Postgres."
+- **vector-database-engineer**: "Expert in vector databases, embedding strategies, and semantic search implementation. Masters Pinecone, Weaviate, Qdrant, Milvus, and pgvector for RAG applications, recommendation systems, and similar"
+- **vector-index-tuning**: "Optimize vector index performance for latency, recall, and memory. Use when tuning HNSW parameters, selecting quantization strategies, or scaling vector search infrastructure."

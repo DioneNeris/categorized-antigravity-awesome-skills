@@ -1,0 +1,4 @@
+# matematico-tao
+
+- references
+- scripts

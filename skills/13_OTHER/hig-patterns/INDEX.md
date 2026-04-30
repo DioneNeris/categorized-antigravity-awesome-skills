@@ -1,0 +1,3 @@
+# hig-patterns
+
+- references

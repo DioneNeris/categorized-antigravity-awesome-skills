@@ -1,0 +1,3 @@
+# go-concurrency-patterns
+
+- resources

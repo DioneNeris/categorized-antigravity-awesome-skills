@@ -1,0 +1,3 @@
+# stride-analysis-patterns
+
+- resources

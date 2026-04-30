@@ -1,0 +1,3 @@
+# dbt-transformation-patterns
+
+- resources

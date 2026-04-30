@@ -1,0 +1,3 @@
+# nodejs-backend-patterns
+
+- resources

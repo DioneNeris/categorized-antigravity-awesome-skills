@@ -1,0 +1,3 @@
+# slack-gif-creator
+
+- core

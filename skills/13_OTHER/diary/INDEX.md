@@ -1,0 +1,4 @@
+# diary
+
+- scripts
+- templates

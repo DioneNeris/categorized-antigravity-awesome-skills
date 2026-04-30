@@ -1,0 +1,4 @@
+# shopify-development
+
+- references
+- scripts

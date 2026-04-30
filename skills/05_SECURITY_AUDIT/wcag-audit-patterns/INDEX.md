@@ -1,0 +1,3 @@
+# wcag-audit-patterns
+
+- resources
